@@ -1,0 +1,53 @@
+.bio-div
+    {
+height:auto;
+margin:0px;
+
+    }
+    .bio-img
+    {
+        height:310px;
+        width:400px;
+        margin:20px 0px 0px 20px;
+        border:solid;
+    }
+    .details
+    {
+        float:right;
+        background-color:black;
+        height:310;
+        width:800px;
+        margin:20px 20px 0px 20px;
+        border-style:inset;
+        
+    }
+    .name{
+        margin:20px;
+        text-decoration:underline;
+        color:white;
+    }
+    .Quick-facts
+    {
+        margin:15px;
+        color:lightgreen;
+        margin:20px 20px 0px 40px;
+    }
+    .bio-para{
+        margin:20px;
+        
+    }
+    .bio-header
+    {
+        margin:20px;
+        text-decoration:underline;
+        color:black;
+    
+        padding:10px;
+        border-radius:20px;
+    
+    }
+    .list1
+    {
+float:right;
+    }
+    
